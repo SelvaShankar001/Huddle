@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(95, 95, 197);
+    /* display: flex; */
+}
+.con1{
+    position: absolute;
+}
+.con2{
+    right: 20vw;
+    padding: 20px;
+    margin: 40px;
+    margin-top: 30px;
+    
+}
+ .con3{
+   position: absolute;
+   color: white;
+   width: 300px;
+   float: left;
+   left: 850px;
+   bottom: 350px;
+}
+h2{
+   font-family: 'Times New Roman';
+   font-size: x-large;
+   width: 250px;
+
+}
+h4{
+    font-family: 'Times New Roman';
+    font-size: medium;
+    justify-content: center;
+    width: 50px;
+}
+header{
+    margin: 20px;
+    padding: 20px;
+}
+footer{
+    float: right;
+    margin-right: 4%;
+}
+button{
+   position:absolute;
+   float: left;
+   left: 850px;
+   bottom: 310px;
+   padding: 10px;
+   border-radius: 50px;
+   border: 100px;
+   width: 150px;
+}
